@@ -1,0 +1,22 @@
+# Arquivos de bytecode compilados
+*.pyc
+__pycache__/
+
+# Diretórios de ambiente virtual
+venv/
+env/
+
+# Arquivos de configuração do IDE
+.idea/
+.vscode/
+
+# Arquivos de logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Ignorar arquivos de sistema operacionais específicos
+.DS_Store
+Thumbs.db
